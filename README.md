@@ -14,3 +14,11 @@ Hi! I'm a Data Science Grad at Northeastern University with a background in Mach
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! I'm a Data Science Grad at Northeastern University with a background in Machine Learning, Data Science and Large Language Models. I am passionate about data-driven tech and solutions. You can explore my profile for projects related to data, ML and LLMs.
+
+Get in Touch
+
+
+Email: lnu.rahi@northeastern.edu
+LinkedIn: https://www.linkedin.com/in/rahimunisa-begum/
+
