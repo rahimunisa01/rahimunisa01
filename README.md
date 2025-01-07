@@ -20,5 +20,6 @@ Get in Touch
 
 
 Email: lnu.rahi@northeastern.edu
+
 LinkedIn: https://www.linkedin.com/in/rahimunisa-begum/
 
