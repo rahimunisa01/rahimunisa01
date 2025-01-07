@@ -1,10 +1,10 @@
-## Hi there 👋, I'm Rahimunisa
+## Hi 👋, I'm Rahimunisa
 
 <!--
 **rahimunisa01/rahimunisa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Hi! I'm a Data Science Grad at Northeastern University with a background in Machine Learning, Data Science and Large Language Models. 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
